@@ -10,7 +10,7 @@ I chose to learn about **Inverse Kinematics** and **shaders** in Unity, because 
 
 Here is the final look of the scene:
 
-![](.\Images\GIF.gif)
+![](Images/GIF.gif)
 
 
 
@@ -29,11 +29,11 @@ In this repo you will find:
 
 Here is the first working step of IK with 5 joints:
 
-![](.\Images\Animation\IK5Joints.gif)
+![](Images/Animation/IK5Joints.gif)
 
 And here is what it looks like with a tentacle made with Blender and its skeleton made of 43 bones:
 
-![](.\Images\Animation\IKTentacle43Bones.gif)
+![](Images/Animation/IKTentacle43Bones.gif)
 
 
 
@@ -47,11 +47,11 @@ I also did a **surface shader** for the **water** in the main scene.
 
 Here are some examples of the shaders I made:
 
-![](.\Images\Rendering\21.png)
+![](Images/Rendering/21.png)
 
-![](.\Images\Rendering\24.1.png)
+![](Images/Rendering/24.1.png)
 
-![](.\Images\Rendering\32.gif)
+![](Images/Rendering/32.gif)
 
 
 
